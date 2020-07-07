@@ -1,0 +1,7 @@
+E:\learning\BookAssignment\BookAssignment\bin\Debug\BookAssignment.exe.config
+E:\learning\BookAssignment\BookAssignment\bin\Debug\BookAssignment.exe
+E:\learning\BookAssignment\BookAssignment\bin\Debug\BookAssignment.pdb
+E:\learning\BookAssignment\BookAssignment\obj\Debug\BookAssignment.csprojAssemblyReference.cache
+E:\learning\BookAssignment\BookAssignment\obj\Debug\BookAssignment.csproj.CoreCompileInputs.cache
+E:\learning\BookAssignment\BookAssignment\obj\Debug\BookAssignment.exe
+E:\learning\BookAssignment\BookAssignment\obj\Debug\BookAssignment.pdb
